@@ -2,7 +2,10 @@
 
 KiCad footprint for the **ESP32-S3 Super Mini** module (`MODULE_ESP32-S3-SuperMini`).
 
-![Footprint preview]()
+![Footprint preview](1.png)
+
+3D view:
+![3D view](2.png)
 
 ## Pinout
 
@@ -18,8 +21,6 @@ KiCad footprint for the **ESP32-S3 Super Mini** module (`MODULE_ESP32-S3-SuperMi
 - **5V** — 5 V input
 - **3V3** — 3.3 V output
 - **GND** — ground
-
-
 
 ## Installation
 
